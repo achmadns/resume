@@ -1,16 +1,48 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Internal Product
+  role: System Architecture, Analysis, and Design Manager
+  duration: May, 2018 &mdash; July, 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Led 5 team members to provide system requirement and system design document of the product. Coordinated with other managers to deliver roadmaps. Participated in PoC projects with other team members.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Internal Product
+  role: Java Research Engineer
+  duration: Jan, 2015 &mdash; Apr, 2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Done research on required functionalities of the internal application. Led 2 DBA team members. Provided assistance to development and operational team related to the product.
+
+- project: SMS Broadcast App
+  role: Java Engineer
+  duration: Aug, 2014 &mdash; Dec, 2014
+  # url: "#"
+  description: Added asynchronous communication between core SMS API and the client app without introducing breaking changes on the existing flow of the system.
+
+- project: Sistem Aplikasi Keuangan Tingkat Instansi (SAKTI) II
+  role: Java Developer
+  duration: Aug, 2012 &mdash; Jul, 2014
+  # url: "#"
+  description: Rewrite of SAKTI due to significant business process changes/updates. I was assigned in Pembayaran, and, mainly, Asset Tetap module as a programmer and some PL/SQL related use cases.
+
+- project: E-Gov
+  role: Java Developer
+  duration: Mar, 2012 &mdash; Jul, 2012
+  # url: "#"
+  description: The distributed capital monitoring system in Indonesia built for Bapepam, http://egov.bapepam.go.id/. Helped on bug fixing, installer improvement and on few features such complex search, encryption, and export-import.
+
+- project: Sistem Aplikasi Keuangan Tingkat Instansi (SAKTI)
+  role: Java Developer
+  duration: Nov, 2011 &mdash; Feb, 2012
+  # url: "#"
+  description: Distributed and large scale, ERP-like, accounting system built for Direktorat Jenderal Perbendarahan Negara, Indonesia, http://www.span.depkeu.go.id/. I was assigned to Administrasi, Pembayaran, and, mainly Asset Tetap module as a programmer. Apart from programming, I contributed to the installer of the initial product which was delivered and presented to the client.
+
+- project: Combi Logistics
+  role: Java Developer
+  duration: Apr, 2013 &mdash; Jul, 2013
+  # url: "#"
+  description: Standalone logistics information system ordered by http://www.combilogistics.co.id/ built on top swing framework combined with Spring and Hibernate. I contributed to some of the Swing-based desktop frameworks within the product.
+
+- project: VOX - Digital banking
+  role: Java Developer
+  duration: Aug, 2012 &mdash; Jan, 2013
+  # url: "#"
+  description: Distributed core banking application ordered by http://m-stars.net/, built on top Java Swing as the client, combined with Spring and Hibernate as the server. I am hired as a programmer, assigned to the deposit module and a few reporting tasks using Jaspersoft technologies.
